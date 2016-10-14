@@ -44,9 +44,9 @@
     },
     "type": "library",
     "require": {
-        "pear/pear": "*",
-        "pear/ole": "*",
-        "php": ">=5.3.3"
+        "php": ">=5.3.3",
+        "pear/pear-core-minimal": "dev-master",
+        "pear/ole": "dev-master"        
     },
     "require-dev": {
         "phpunit/phpunit": "*"
