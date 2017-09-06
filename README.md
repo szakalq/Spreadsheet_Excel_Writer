@@ -1,9 +1,7 @@
 Install:
-
 composer require szakalq/spreadsheet_excel_writer
 
-Orginal:
-
+Forked from:
 https://github.com/pear/Spreadsheet_Excel_Writer
 
 
