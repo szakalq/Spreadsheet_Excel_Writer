@@ -41,6 +41,7 @@
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Spreadsheet_Excel_Writer",
         "source": "https://github.com/pear/Spreadsheet_Excel_Writer"
     },
+    "version": "1.0.0",
     "type": "library",
     "require": {
         "php": ">=5.3.3",
