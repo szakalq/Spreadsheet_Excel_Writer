@@ -35,7 +35,7 @@
     "include-path": [
         "./"
     ],
-    "license": "LGPL",    
+    "license": "MIT",    
     "name": "szakalq/spreadsheet_excel_writer",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Spreadsheet_Excel_Writer",
